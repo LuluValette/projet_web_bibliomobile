@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<images>
+    <image>
+        <url>IMGViewer/la bete difficile.avif</url>
+        <alt>Description de l'image 1</alt>
+    </image>
+    <image>
+        <url>IMGViewer/la brutale.avif</url>
+        <alt>Description de l'image 2</alt>
+    </image>
+    <image>
+        <url>IMGViewer/la faiseuse de veuve.avif</url>
+        <alt>Description de l'image 4</alt>
+    </image>
+    <image>
+        <url>IMGViewer/la mordante.avif</url>
+        <alt>Description de l'image 5</alt>
+    </image>
+    <image>
+        <url>IMGViewer/la rebelle.avif</url>
+        <alt>Description de l'image 6</alt>
+    </image>
+    <image>
+        <url>IMGViewer/la sauvage.avif</url>
+        <alt>Description de l'image 7</alt>
+    </image>
+    <image>
+        <url>IMGViewer/la tueuse de pilotes.avif</url>
+        <alt>Description de l'image 8</alt>
+    </image>
+</images>

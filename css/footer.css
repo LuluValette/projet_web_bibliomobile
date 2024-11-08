@@ -1,0 +1,52 @@
+footer {
+    position: relative;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.footer-content h2 {
+    margin: 0 0 10px;
+}
+
+.footer-content p {
+    margin: 5px 0;
+}
+
+.footer-content a {
+    color: #e10600;
+    text-decoration: none;
+}
+
+.footer-content a:hover {
+    text-decoration: underline;
+}
+
+@media screen and (min-width: 769px) {
+    footer table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 0 auto;
+    }
+    footer td {
+        width: 33%;
+        text-align: center;
+        padding: 10px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    footer table {
+        width: 100%;
+    }
+    footer td {
+        display: block;
+        width: 100%;
+        text-align: center;
+        padding: 10px 0;
+    }
+}
